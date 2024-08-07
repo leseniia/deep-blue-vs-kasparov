@@ -1,7 +1,7 @@
 let currentMove = 0;
 let currentPiece = 0;
 
-
+//  
 let g;
 let img_rook_black,
   img_rook_white,
